@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+          text-align: center;
+        }
+  
+  div.firstdiv {
+          float: left;
+          margin-left: 450px;
+          padding: 10px;
+          
+  }
+  
+  div.secdiv {
+          float: left;
+          
+          margin-left: 20px;
+          padding: 10px;
+          right: 10%;
+        }
+  
+  hr{
+    transform: rotate(90deg);
+    }
+      
+  
+  
+  
+  
+  
+  
+  
+  
